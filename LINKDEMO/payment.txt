@@ -1,0 +1,4 @@
+payment->video->link==========https://www.youtube.com/watch?v=Wx6W3_1LE5w
+payment->video->example=======http://webeasystep.com/blog/view_article/paypal_payment_gateway_integration_in_codeigniter
+
+pagination link==============https://codepen.io/hijazitio/pen/oEBbNq?page=2
